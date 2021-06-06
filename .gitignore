@@ -1,3 +1,6 @@
 # ignore all dockfile
 Dockerfile
+#ignore tar files
+data.tar.tz
 *.tar.tz
+*.tz
